@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-react-redux-demo",
+  "version": "1.0.0",
+  "description": "nextjs react redux demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodemonki/nextjs-react-redux-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodemonki/nextjs-react-redux-demo/issues"
+  },
+  "homepage": "https://github.com/kodemonki/nextjs-react-redux-demo#readme",
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
