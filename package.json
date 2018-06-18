@@ -4,6 +4,7 @@
   "description": "nextjs react redux demo",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next"
   },
   "repository": {
@@ -19,7 +20,7 @@
   "homepage": "https://github.com/kodemonki/nextjs-react-redux-demo#readme",
   "dependencies": {
     "next": "^6.0.3",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0"
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
   }
 }
